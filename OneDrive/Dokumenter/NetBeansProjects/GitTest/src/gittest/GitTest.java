@@ -18,6 +18,8 @@ public class GitTest {
         // TODO code application logic here
         System.out.println("Hello World");
         
+        System.out.print("Git test 2");
+        
     }
     
 }
